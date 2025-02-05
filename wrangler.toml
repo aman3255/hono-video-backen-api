@@ -1,0 +1,7 @@
+name = "hono-video-backend-api"
+main = "src/index.ts"
+compatibility_date = "2025-01-29"
+compatibility_flags = ["nodejs_compat"] # Required for mongoose
+
+[vars]
+MONGODB_URI = "mongodb+srv://aman3255:1IgXRt4CVFblvbN1@cluster0.ph8p3.mongodb.net/"
